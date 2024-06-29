@@ -13,4 +13,13 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Include="wwwroot\index.html" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\src\css\" />
+      <Folder Include="wwwroot\src\js\" />
+    </ItemGroup>
+
 </Project>
